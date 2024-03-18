@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UnsJedis</string>
+
+    <string name="connected">connected</string>
+    <string name="disconnect">disconnect</string>
+    <string name="connecting">connecting…</string>
+    <string name="status">status :&#160;</string>
+    <string name="channel">channel :&#160;</string>
+
+    <string name="fail_to_connect">check IP, PORT or network</string>
+    <string name="fail_to_reconnect">check network status</string>
+    <string name="test01">test01</string>
+    <string name="test02">test02</string>
+</resources>
